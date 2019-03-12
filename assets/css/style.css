@@ -1,0 +1,45 @@
+
+body{
+    background-image: url(../pexels-photo-556416.jpeg);
+    font-size: 25px;
+    color: white;
+    font-family: 'Acme', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+.table{
+    color: white;
+    
+    
+}
+
+#add-row {
+    color:white;
+}
+
+#jumbo{
+    background: linear-gradient(to bottom, white, #00BFFF);
+    color: white;
+}
+
+.panel-body{
+    color : white;
+}
+
+#panel{
+    color: white;
+    
+}
+#add-train {
+    background-color: white;
+    color: black;
+}
+
+button {
+    margin-bottom: 20%;
+}
